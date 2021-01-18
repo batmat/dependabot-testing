@@ -1,0 +1,4 @@
+[submodule "various/jenkins"]
+	path = various/jenkins
+	url = git@github.com:jenkinsci/jenkins
+	branch = master
