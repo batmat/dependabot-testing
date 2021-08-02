@@ -8,3 +8,7 @@ updates:
     directory: "/various"
     schedule:
       interval: "daily"
+  - package-ecosystem: "docker"
+    directory: "/docker-test"
+    schedule:
+      interval: "daily"
